@@ -15,7 +15,8 @@
                         "id",
                         "real_name",
                         "tz",
-                        "activity_periods"
+                        "start_time",
+                        "end_time"
                     ]
                 }
             ],
