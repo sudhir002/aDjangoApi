@@ -2,7 +2,7 @@
 
 
 •    Django Api for Insert, Select and Update.
-     •   POST REQUEST ONLY_
+•    *POST REQUEST ONLY_
      1.   API DETAILS :- ,
           {
             "info": "api information",
